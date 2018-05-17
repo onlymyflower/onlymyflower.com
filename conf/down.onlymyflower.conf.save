@@ -2,7 +2,8 @@ server {
         listen       8082;
         server_name onlymyflower.com;
 
-        root    /home/dianhuangkan/onlymyflower.com/;
+ 
+       root    /home/ubuntu/GitHub/onlymyflower/onlymyflower.com/;
 
         autoindex       on;
         autoindex_exact_size    off;
